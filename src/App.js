@@ -1,25 +1,24 @@
-import logo from './logo.svg';
-import './App.css';
+import React, { useEffect, useState } from 'react';
+import Nav from './Nav';
+import MoviesList from './MoviesList';
 
 function App() {
-  return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
-  );
+	const [movies, setMovies] = useState([]);
+
+	useEffect(() => {
+		fetch('http://localhost:3000/movies')
+			.then((resp) => resp.json())
+			//.then((moviesData) => console.log(moviesData));
+			//.then((moviesData) => setMovies(moviesData));
+			.then(setMovies);
+	}, []);
+
+	return (
+		<div className='App'>
+			<Nav />
+			<MoviesList movies={movies} />
+		</div>
+	);
 }
 
 export default App;

@@ -1,0 +1,222 @@
+{
+	"movies": [
+		{
+			"id": "SP015622350000",
+			"title": "The Marksman",
+			"genres": ["Action", "Thriller"],
+			"description": "THIS IS A TEST ",
+			"duration": "THIS IS A TEST THIS IS A TEST",
+			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Torreys.JPG/1280px-Torreys.JPG"
+		},
+		{
+			"id": "SP013301360000",
+			"title": "Georgetown",
+			"genres": ["Crime drama"],
+			"description": "THIS IS A TEST ",
+			"duration": "THIS IS A TEST THIS IS A TEST",
+			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Torreys.JPG/1280px-Torreys.JPG"
+		},
+		{
+			"id": "SP013954740000",
+			"title": "The Little Things",
+			"genres": ["Thriller", "Crime drama", "Mystery"],
+			"description": "THIS IS A TEST ",
+			"duration": "THIS IS A TEST THIS IS A TEST",
+			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Torreys.JPG/1280px-Torreys.JPG"
+		},
+		{
+			"id": "SP015878080000",
+			"title": "The Dry",
+			"genres": ["Crime drama", "Mystery"],
+			"description": "THIS IS A TEST ",
+			"duration": "THIS IS A TEST THIS IS A TEST",
+			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Torreys.JPG/1280px-Torreys.JPG"
+		},
+		{
+			"id": "SP012010760000",
+			"title": "The Croods: A New Age",
+			"genres": ["Children", "Comedy", "Adventure", "Animated"],
+			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Torreys.JPG/1280px-Torreys.JPG"
+		},
+		{
+			"id": "SP015238800000",
+			"title": "The Father",
+			"genres": ["Drama"],
+			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Torreys.JPG/1280px-Torreys.JPG"
+		},
+		{
+			"id": "SP015666320000",
+			"title": "Land",
+			"genres": ["Drama"],
+			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Torreys.JPG/1280px-Torreys.JPG"
+		},
+		{
+			"id": "SP014431440000",
+			"title": "Nomadland",
+			"genres": ["Drama"],
+			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Torreys.JPG/1280px-Torreys.JPG"
+		},
+		{
+			"id": "SP012496520000",
+			"title": "Above Suspicion",
+			"genres": ["Crime drama", "Thriller"],
+			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Torreys.JPG/1280px-Torreys.JPG"
+		},
+		{
+			"id": "SP014459640000",
+			"title": "French Exit",
+			"genres": ["Comedy drama"],
+			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Torreys.JPG/1280px-Torreys.JPG"
+		},
+		{
+			"id": "SP016143620000",
+			"title": "High Ground",
+			"genres": ["Adventure", "Drama"],
+			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Torreys.JPG/1280px-Torreys.JPG"
+		},
+		{
+			"id": "SP012813800000",
+			"title": "American Fighter",
+			"genres": ["Action"],
+			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Torreys.JPG/1280px-Torreys.JPG"
+		},
+		{
+			"id": "SP015653500000",
+			"title": "Boogie",
+			"genres": ["Drama"],
+			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Torreys.JPG/1280px-Torreys.JPG"
+		},
+		{
+			"id": "SP013109420000",
+			"title": "News of the World",
+			"genres": ["Western", "Adventure", "Drama"],
+			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Torreys.JPG/1280px-Torreys.JPG"
+		},
+		{
+			"id": "SP015768310000",
+			"title": "Together Together",
+			"genres": ["Comedy drama"],
+			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Torreys.JPG/1280px-Torreys.JPG"
+		},
+		{
+			"id": "SP014367840000",
+			"title": "Judas and the Black Messiah",
+			"genres": ["Historical drama", "Biography"],
+			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Torreys.JPG/1280px-Torreys.JPG"
+		},
+		{
+			"id": "SP015600950000",
+			"title": "The Mauritanian",
+			"genres": ["Drama", "Thriller"],
+			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Torreys.JPG/1280px-Torreys.JPG"
+		},
+		{
+			"id": "SP015997310000",
+			"title": "The Resort",
+			"genres": ["Horror", "Thriller"],
+			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Torreys.JPG/1280px-Torreys.JPG"
+		},
+		{
+			"id": "SP013723210000",
+			"title": "Nobody",
+			"genres": ["Action", "Thriller", "Comedy"],
+			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Torreys.JPG/1280px-Torreys.JPG"
+		},
+		{
+			"id": "SP015806650000",
+			"title": "Justice Society: World War II",
+			"genres": ["Fantasy", "Animated"],
+			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Torreys.JPG/1280px-Torreys.JPG"
+		},
+		{
+			"id": "SP016088830000",
+			"title": "Percy vs Goliath",
+			"genres": ["Drama"],
+			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Torreys.JPG/1280px-Torreys.JPG"
+		},
+		{
+			"id": "SP013584170000",
+			"title": "Let Him Go",
+			"genres": ["Thriller", "Western"],
+			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Torreys.JPG/1280px-Torreys.JPG"
+		},
+		{
+			"id": "SP015351890000",
+			"title": "Timecrafters: The Treasure of Pirate's Cove",
+			"genres": ["Adventure", "Fantasy"],
+			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Torreys.JPG/1280px-Torreys.JPG"
+		},
+		{
+			"id": "SP016070160000",
+			"title": "The Virtuoso",
+			"genres": ["Thriller"],
+			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Torreys.JPG/1280px-Torreys.JPG"
+		},
+		{
+			"id": "SP015413280000",
+			"title": "The Killing of Two Lovers",
+			"genres": ["Drama"],
+			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Torreys.JPG/1280px-Torreys.JPG"
+		},
+		{
+			"id": "SP013727990000",
+			"title": "Riders of Justice",
+			"genres": ["Action", "Thriller", "Dark comedy"],
+			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Torreys.JPG/1280px-Torreys.JPG"
+		},
+		{
+			"id": "SP015893830000",
+			"title": "616 Wilford Lane",
+			"genres": ["Horror"],
+			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Torreys.JPG/1280px-Torreys.JPG"
+		},
+		{
+			"id": "SP010286020000",
+			"title": "Locked In",
+			"genres": ["Thriller"],
+			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Torreys.JPG/1280px-Torreys.JPG"
+		},
+		{
+			"id": "SP013515940000",
+			"title": "Promising Young Woman",
+			"genres": ["Dark comedy", "Thriller"],
+			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Torreys.JPG/1280px-Torreys.JPG"
+		},
+		{
+			"id": "SP015766610000",
+			"title": "In the Earth",
+			"genres": ["Horror", "Thriller"],
+			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Torreys.JPG/1280px-Torreys.JPG"
+		},
+		{
+			"id": "SP016282990000",
+			"title": "The Retreat",
+			"genres": ["Thriller"],
+			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Torreys.JPG/1280px-Torreys.JPG"
+		},
+		{
+			"id": "SP013848680000",
+			"title": "North Hollywood",
+			"genres": ["Comedy drama"],
+			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Torreys.JPG/1280px-Torreys.JPG"
+		},
+		{
+			"id": "SP016055960000",
+			"title": "The Djinn",
+			"genres": ["Horror", "Thriller"],
+			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Torreys.JPG/1280px-Torreys.JPG"
+		},
+		{
+			"id": "SP015997800000",
+			"title": "Trigger Point",
+			"genres": ["Thriller", "Action"],
+			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Torreys.JPG/1280px-Torreys.JPG"
+		},
+		{
+			"id": "SP016010220000",
+			"title": "2149: The Aftermath",
+			"genres": ["Science fiction"],
+			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Torreys.JPG/1280px-Torreys.JPG"
+		}
+	]
+}
