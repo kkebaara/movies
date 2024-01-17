@@ -16,6 +16,7 @@ function App() {
 	return (
 		<div className='App'>
 			<Nav />
+			
 			<MoviesList movies={movies} />
 		</div>
 	);
