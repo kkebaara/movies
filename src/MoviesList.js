@@ -5,6 +5,7 @@ import Dropdown from './FiltersDD';
 
 function MoviesList({ movies }) {
 	const [greased, setGreased] = useState(false);
+	const [selectedGenre, setSelectedGenre] = useState([]);
 
 	// const greasedHogs = hogs.filter((hog) => hog.greased);
 	// console.log(greasedHogs);
@@ -22,7 +23,10 @@ function MoviesList({ movies }) {
 	return (
 		<div>
 			<Filters greased={greased} setGreased={setGreased} />
-			<Dropdown />
+			<Dropdown
+				selectedGenre={selectedGenre}
+				setSelectedGenre={setSelectedGenre}
+			/>
 			{renderMovies}
 		</div>
 	);
