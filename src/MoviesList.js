@@ -1,6 +1,7 @@
 import { useState } from 'react';
 import MovieCard from './MovieCard';
 import Filters from './Filters2';
+import Dropdown from './FiltersDD';
 
 function MoviesList({ movies }) {
 	const [greased, setGreased] = useState(false);
@@ -21,6 +22,7 @@ function MoviesList({ movies }) {
 	return (
 		<div>
 			<Filters greased={greased} setGreased={setGreased} />
+			<Dropdown />
 			{renderMovies}
 		</div>
 	);

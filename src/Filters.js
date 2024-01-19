@@ -1,4 +1,4 @@
-function Filters() {
+/* function Filters() {
 	return (
 		<form>
 			<input type='checkbox' />
@@ -6,4 +6,4 @@ function Filters() {
 	);
 }
 
-export default Filters;
+export default Filters; */
